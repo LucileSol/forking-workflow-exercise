@@ -1,4 +1,3 @@
 def tweet():
-    msg = "long tweet" * 100
-    return msg
+    return "please replace this boring sentence with something more fun"
 
