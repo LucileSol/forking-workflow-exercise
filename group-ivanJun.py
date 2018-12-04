@@ -1,3 +1,2 @@
 def tweet():
-    return "Waiting for LUNCH!!!!"
-
+    return "Waiting for FIKA!!!!"
